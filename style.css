@@ -1,3 +1,8 @@
+p{
+ text-align: center;
+ margin:100px;
+ color: blue;
+}
 :root {
     --penguin-size: 300px;
     --penguin-skin: gray;
